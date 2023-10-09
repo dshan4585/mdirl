@@ -1,0 +1,14 @@
+.DS_Store
+
+expr/*
+__pycache__/
+env/__pycache__/
+loss/__pycache__/
+nn/__pycache__/
+nn/disc/__pycache__/
+util/__pycache__/
+nn/pi/__pycache__/
+.ipynb_checkpoints/
+
+*.png
+*.jpg
