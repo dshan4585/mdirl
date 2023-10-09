@@ -5,8 +5,6 @@ This repository contains an implementation of our paper:
 > Robust Imitation via Mirror Descent Inverse Reinforcement Learning
 > 
 > Dong-Sig Han, Hyunseo Kim, Hyundo Lee, Je-Hwan Ryu, and Byoung-Tak Zhang
->
-> *(^: corresponding authors)*
 > 
 > Advances in Neural Information Processing Systems 35 (NeurIPS 2022)
 > 
