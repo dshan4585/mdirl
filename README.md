@@ -39,7 +39,7 @@ python3 run_noisy.py --env_id Hopper-v3 --policy gaussian --alg mdirl --q 2 --no
 # Reference
 
 ~~~
-@inproceedings{NEURIPS2022_c1f7b1ed,
+@inproceedings{han2022robust,
  author = {Han, Dong-Sig and Kim, Hyunseo and Lee, Hyundo and Ryu, JeHwan and Zhang, Byoung-Tak},
  title = {Robust Imitation via Mirror Descent Inverse Reinforcement Learning},
  booktitle = {Advances in Neural Information Processing Systems},
