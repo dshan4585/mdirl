@@ -1,6 +1,17 @@
 # Mirror Descent Inverse Reinforcement Learning
 
-This repository contains an implementation of the paper [Robust Imitation via Mirror Descent Inverse Reinforcement Learning](https://arxiv.org/abs/2210.11201).
+This repository contains an implementation of our paper:
+
+> Robust Imitation via Mirror Descent Inverse Reinforcement Learning
+> 
+> Dong-Sig Han, Hyunseo Kim, Hyundo Lee, Je-Hwan Ryu, and Byoung-Tak Zhang
+>
+> *(^: corresponding authors)*
+> 
+> Advances in Neural Information Processing Systems 35 (NeurIPS 2022)
+> 
+> arXiv: [https://arxiv.org/abs/2211.02291](https://arxiv.org/abs/2210.11201)
+
 
 This implementation makes use of [Tensorflow 2.2.0](https://github.com/tensorflow/tensorflow) and Gym 0.17.2.
 
