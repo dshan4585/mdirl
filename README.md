@@ -13,7 +13,7 @@ This repository contains an implementation of our paper:
 
 This implementation makes use of [Tensorflow 2.2.0](https://github.com/tensorflow/tensorflow) and Gym 0.17.2.
 
-The RL loop is a slight adjustment of [stable-baselines](https://github.com/hill-a/stable-baselines) to serve our specific purposes of implementing regularized actor-critic and modeling Gaussian policies.
+The RL loop is a variant of the SAC algorithm in [stable-baselines](https://github.com/hill-a/stable-baselines) to serve our specific purposes of implementing regularized actor-critic and modeling Gaussian policies.
 
 Additionally, for the demonstration code in the `demo_julia` directory, we used [Julia 1.7](https://julialang.org) for training and visualization.
 
