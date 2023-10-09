@@ -1,4 +1,4 @@
-# Mirror Descent Inverse Reinforcement Learning
+# Mirror Descent Inverse Reinforcement Learning (NeurIPS 2022)
 
 This repository contains an implementation of our paper:
 
